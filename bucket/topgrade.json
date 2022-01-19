@@ -1,12 +1,12 @@
 {
-    "version": "8.0.3",
+    "version": "8.1.2",
     "description": "Upgrade everything, keep your system up to date by detecting which tools you use and run their appropriate package managers.",
     "homepage": "https://github.com/r-darwish/topgrade",
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/r-darwish/topgrade/releases/download/v8.0.3/topgrade-v8.0.3-x86_64-pc-windows-msvc.zip",
-            "hash": "1797e4b8910be554aad7b926aeffae1a256d696dd179f501f2cf628ffda6d57e"
+            "url": "https://github.com/r-darwish/topgrade/releases/download/v8.1.2/topgrade-v8.1.2-x86_64-pc-windows-msvc.zip",
+            "hash": "9c1fb11610297e5010d3d17885c38e935b867d55c57bf70a481941fc60c9e422"
         }
     },
     "bin": "topgrade.exe",
