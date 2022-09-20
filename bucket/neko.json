@@ -1,18 +1,18 @@
 {
-    "version": "2.3.0",
+    "version": "2.2.0",
     "description": "A high-level dynamically typed programming language",
     "homepage": "https://nekovm.org",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/HaxeFoundation/neko/releases/download/v2-3-0/neko-2.3.0-win64.zip",
-            "hash": "d09fdf362cd2e3274f6c8528be7211663260c3a5323ce893b7637c2818995f0b",
-            "extract_dir": "neko-2.3.0-win64"
+            "url": "https://github.com/HaxeFoundation/neko/releases/download/v2-2-0/neko-2.2.0-win64.zip",
+            "hash": "913d90223399088fd38c721f7b5e5a7d615326f8edf26e5fc3b2959e5945939d",
+            "extract_dir": "neko-2.2.0-win64"
         },
         "32bit": {
-            "url": "https://github.com/HaxeFoundation/neko/releases/download/v2-3-0/neko-2.3.0-win.zip",
-            "hash": "fe5a11350d2dd74338f971d62115f2bd21ec6912f193db04c5d28eb987a50485",
-            "extract_dir": "neko-2.3.0-win"
+            "url": "https://github.com/HaxeFoundation/neko/releases/download/v2-2-0/neko-2.2.0-win.zip",
+            "hash": "93d7ca96698a6825f38ca8eea49e2e6b691c0849270174f6c1bd531290db8d69",
+            "extract_dir": "neko-2.2.0-win"
         }
     },
     "bin": [
